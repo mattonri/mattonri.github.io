@@ -1,47 +1,38 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Matt Talbert's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Matt Talbert
+Computer Scientist, Data Scientist and Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tal21005@byui.edu">tal21005@byui.edu</a>
+| <a href="https://www.linkedin.com/in/matthew-t-6a5b34285/">My LinkedIn Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at BYUi
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Science, Mobile Development, Web Design.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data Analyticts, Artificial Intelligence.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2021`
+__West Lafayette, Jr/Sr High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
+`September 2023 - now`
+__Brigham Young University - Idaho__
+<!-- 
 ## Awards
 
 `2012`
@@ -53,7 +44,7 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 
@@ -68,21 +59,58 @@ etc. etc. etc.
 ### Patents
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`January 2024 - Present`
+__Assistant Curriculum Designer__, Brigham Young University Idaho
+Rexburg, ID
 
-- Warden
-- Minted coins
+- Curated and published content for a variety of online college-level courses
+- Coded dynamic course instructional pages with both CSS and HTML
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`September 2023 - December 2023`
+__STC Early Morning Custodian__, Brigham Young University Idaho
+Rexburg, ID
 
+- Committed to a rigorous 4:30am-7:30am schedule while balancing responsibilities of higher education
+-  Coordinated to fulfill individual and group cleaning deadlines
 
+`July 2023 - September 2023`
+__Seasonal Front End Associate__, Target
+Lafayette, IN
+
+- Developed advanced soft skills working at the customer service des
+- Worked overtime reaching +50 hours a week during the busy, back to school season
+
+`May 2021 - July 2021`
+__Garden Center Associate__, Ace Hardware
+West Lafayette, IN
+
+- Demonstrated soft skills working with customers and coworkers in a fast paced environment
+- Led a department of the store by managing sales, restocking and product care and mantainence
+
+`March 2020 - March 2021`
+__Front End Associate__, Kroger Stores
+West Lafayette, IN
+
+- Varied experience in fulfilling online orders, front end cleaning/sorting and utility clerk responsibilities
+- Over 600 hours working both as an individual and as a part of a large team
+
+## Community Contributions
+
+`July 2021 - July 2023`
+__Full Time Missionary__, the Church of Jesus Christ of Latter Day Saints
+Fort Collins, CO
+
+- Over 6,500 hours spent studying, planning, meeting and teaching
+- Spoke Spanish with native speakers for 2 years
+- Spent several months training several new missionaries one on one 
+- Was responsible for motivating, training, reporting the progress of and caring for up to 22 other missionaries at a 
+time in leadership positions
+- Taught English to non-english speakers in weekly classes
 
 <!-- ### Footer
 
